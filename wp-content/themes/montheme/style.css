@@ -1,0 +1,21 @@
+/*
+Theme Name : montheme
+Theme URI: http://example.com/
+Description: Exemple theme enfant
+Author: John DOe
+Author URI: http://example.com
+Template: twentythirteen
+Version: 1.0.0
+*/
+
+@import url("../twentythirteen/style.css");
+/* =Theme customization starts here */
+
+.navbar{ background-color: #ffc373 !important;}
+.archive-header{
+background-color: #bf8730;
+}
+
+.entry-title a{
+color:#bf7630;
+}
